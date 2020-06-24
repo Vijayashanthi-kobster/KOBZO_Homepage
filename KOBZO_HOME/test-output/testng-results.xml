@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="70562" started-at="2020-06-22T15:19:36 IST" finished-at="2020-06-22T15:20:47 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="70562" started-at="2020-06-22T15:19:36 IST" finished-at="2020-06-22T15:20:47 IST">
+      <class name="homepage.TestScenerios">
+        <test-method status="PASS" signature="URLaunch()[pri:0, instance:homepage.TestScenerios@72b6cbcc]" name="URLaunch" is-config="true" duration-ms="26812" started-at="2020-06-22T15:19:36 IST" finished-at="2020-06-22T15:20:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- URLaunch -->
+        <test-method status="PASS" signature="GetInTouch_VERIFY()[pri:1, instance:homepage.TestScenerios@72b6cbcc]" name="GetInTouch_VERIFY" duration-ms="43634" started-at="2020-06-22T15:20:03 IST" finished-at="2020-06-22T15:20:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetInTouch_VERIFY -->
+      </class> <!-- homepage.TestScenerios -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
